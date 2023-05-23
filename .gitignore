@@ -1,0 +1,5 @@
+/images/*
+*.pyc
+*/__pychache__/*
+.idea
+src/testdata/lipid.tsv
